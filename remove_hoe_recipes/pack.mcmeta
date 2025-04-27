@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Removes Recipes for Hoes (except Wooden) by changing the recipes and advancements to use Bedrock",
+        "pack_format": 48
+    }
+}
