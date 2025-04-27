@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Removes Recipe for Ender Eye by changing the recipe to use Bedrock",
+        "pack_format": 48
+    }
+}
