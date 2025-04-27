@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Removes Recipes for Swords by changing the recipes to use Bedrock",
+        "pack_format": 48
+    }
+}
