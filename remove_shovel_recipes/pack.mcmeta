@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Removes Recipes for Shovels by changing the recipes and advancements to use Bedrock",
+        "description": "Removes Recipes for Shovels (except Wooden) by changing the recipes and advancements to use Bedrock",
         "pack_format": 48
     }
 }

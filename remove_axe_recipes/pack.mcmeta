@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Removes Recipes for Axes by changing the recipes and advancements to use Bedrock",
+        "description": "Removes Recipes for Axes (except Wooden) by changing the recipes and advancements to use Bedrock",
         "pack_format": 48
     }
 }
