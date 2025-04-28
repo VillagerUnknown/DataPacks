@@ -15,5 +15,5 @@ This is a collection of data packs created for various purposes.
 
 ## Data Packs that Change Gameplay
 
-- `force_buy_gear_from_villagers` forces players to purchase gear from Villagers by removing crafting recipes for 
+- `force_gear_from_villagers` forces players to purchase gear from Villagers by removing crafting recipes for 
 leather, stone, iron, gold, and diamond armors, weapons, and tools. Players can only craft the basic wooden tools and weapons.
