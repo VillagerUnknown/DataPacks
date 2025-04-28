@@ -17,3 +17,9 @@ This is a collection of data packs created for various purposes.
 
 - `force_gear_from_villagers` forces players to purchase gear from Villagers by removing crafting recipes for 
 leather, stone, iron, gold, and diamond armors, weapons, and tools. Players can only craft the basic wooden tools and weapons.
+
+## Data Packs for Villager Coin
+
+### Loot Tables
+
+- `villagercoin-graveyards_and_ghosts_loot` adds coins to loot tables in the Graveyards & Ghosts mod.
