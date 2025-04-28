@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:bedrock"
+    },
+    "$": {
+      "item": "minecraft:bedrock"
+    },
+    "&": {
+      "item": "minecraft:bedrock"
+    },
+    "~": {
+      "item": "minecraft:bedrock"
+    }
+  },
+  "pattern": [
+    "#&#",
+    "~$~",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:crossbow"
+  }
+}
