@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "W": {
-      "item": "minecraft:bedrock"
-    },
-    "o": {
-      "item": "minecraft:bedrock"
-    }
+    "W": "minecraft:bedrock",
+    "o": "minecraft:bedrock"
   },
   "pattern": [
     "WoW",

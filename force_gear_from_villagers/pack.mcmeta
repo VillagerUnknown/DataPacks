@@ -1,6 +1,6 @@
 {
     "pack": {
         "description": "Forces players to purchase gear from Villagers by removing recipes for leather, stone, iron, gold, and diamond armors, weapons, and tools.",
-        "pack_format": 48
+        "pack_format": 71
     }
 }

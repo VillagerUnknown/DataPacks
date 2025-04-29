@@ -6,12 +6,12 @@
     "X": "minecraft:bedrock"
   },
   "pattern": [
-    "X",
-    "#",
-    "#"
+    "  #",
+    " #X",
+    "# X"
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:golden_shovel"
+    "id": "minecraft:fishing_rod"
   }
 }
