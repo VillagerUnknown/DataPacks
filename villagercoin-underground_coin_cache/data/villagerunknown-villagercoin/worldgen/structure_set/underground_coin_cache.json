@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "villagerunknown-villagercoin:underground_coin_cache",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 48,
+    "separation": 36,
+    "salt": 3582239576006213
+  }
+}
