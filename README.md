@@ -20,6 +20,10 @@ leather, stone, iron, gold, and diamond armors, weapons, and tools. Players can 
 
 ## Data Packs for Villager Coin
 
+### Structures
+
+- `villagercoin-underground_coin_cache` adds an underground coin cache structure containing coin stacks from the Villager Coin mod.
+
 ### Loot Tables
 
 - `villagercoin-graveyards_and_ghosts_loot` adds coins to loot tables in the Graveyards & Ghosts mod.
